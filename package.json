@@ -1,7 +1,7 @@
 {
   "name": "sanctum-ipsum",
   "version": "1.0.0",
-  "description": "The holiest lorem ipsum generator on the internet.",
+  "description": "The holiest lorem ipsum generator on the internet. Generate Catholic themed lorem ipsum text for your creative project.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
